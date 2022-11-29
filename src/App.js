@@ -12,6 +12,8 @@ export default function App() {
       <GundamHeader />
       <GundamHeader />
       <GundamHeader />
+      <GundamHeader />
+      <GundamHeader />
     </div>
   );
 }
